@@ -64,7 +64,11 @@ nav h1 {
     gap: 20px;
 }
 
-.fa-user:hover+.user-info{
+.research a {
+    color: black;
+}
+
+.fa-user:hover+.user-info {
     display: flex;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.4);
@@ -79,11 +83,13 @@ nav h1 {
     border-radius: 10px;
     top: 100px;
 }
-.fa-user:hover+.user-info i{
+
+.fa-user:hover+.user-info i {
     padding-right: 16px;
     font-size: 17px;
 }
-.fa-user:hover{
+
+.fa-user:hover {
     background-color: red;
     border-radius: 100PX;
     width: 30PX;
@@ -91,7 +97,8 @@ nav h1 {
     color: white;
     margin-left: -9PX;
 }
-.user-info{
+
+.user-info {
     display: none;
 }
 
@@ -271,7 +278,7 @@ nav h1 {
 
 }
 
-footer{
+footer {
     margin-top: 3%;
 }
 

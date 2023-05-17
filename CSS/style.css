@@ -64,6 +64,9 @@ nav h1 {
     gap: 20px;
 }
 
+.research a{
+    color: black;
+}
 
 /* .sub_menu {
     position: absolute;
@@ -147,6 +150,7 @@ nav h1 {
 .Box:hover input {
     width: 200px;
 }
+
 
 .Box input {
     width: 0;
@@ -449,6 +453,14 @@ nav h1 {
     display: flex;
     flex-direction: column;
     gap: 8px;
+}
+
+.eye_heart a{
+    color: black;
+}
+
+.hrt-ey a{
+    color: black;
 }
 
 .fa-heart-eye {

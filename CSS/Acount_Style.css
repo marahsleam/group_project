@@ -72,6 +72,10 @@ nav h1 {
     gap: 20px;
 }
 
+.research a{
+    color: black;
+  }
+
 .header {
     justify-content: space-around;
     display: flex;

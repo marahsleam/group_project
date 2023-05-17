@@ -74,6 +74,10 @@ nav h1 {
   gap: 20px;
 }
 
+.research a{
+  color: black;
+}
+
 .fa-user:hover+.user-info{
   display: flex;
   position: absolute;
